@@ -1,0 +1,19 @@
+```{r}
+
+
+source("http://www.openintro.org/stat/data/arbuthnot.R")
+
+dim (arbuthnot)
+
+names(arbuthnot)
+
+arbuthnot
+
+arbuthnot$boys
+
+arbuthnot$girls
+
+plot(x = arbuthnot$girls, y = arbuthnot$)
+
+
+```
